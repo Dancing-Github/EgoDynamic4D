@@ -1,4 +1,4 @@
-# EgoDynamic4D Dataset
+# EgoDynamic4D Dataset from AAAI 2026 paper: [Understanding Dynamic Scenes in Egocentric 4D Point Clouds] (https://arxiv.org/abs/2508.07251)
 
 🚀 **EgoDynamic4D dataset is coming soon.**
 
