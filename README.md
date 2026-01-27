@@ -30,7 +30,7 @@ The **EgoDynamic4D dataset is currently being prepared for public release**.
 
 This repository will be updated very soon with:
 
-* Dataset files
+* Dataset files [Huggingface](https://huggingface.co/datasets/Dancing-Huggingface/EgoDynamic4D)
 * Annotation format and task definitions
 * Download and usage instructions
 
