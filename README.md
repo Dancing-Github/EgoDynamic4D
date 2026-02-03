@@ -1,8 +1,8 @@
 # EgoDynamic4D Dataset from AAAI 2026 paper: [Understanding Dynamic Scenes in Egocentric 4D Point Clouds](https://arxiv.org/abs/2508.07251)
 
-🚀 **EgoDynamic4D dataset is coming soon.**
+🚀 **EgoDynamic4D QA dataset has been released.**
 
-This repository hosts the official release of **EgoDynamic4D**, a large-scale egocentric **4D dynamic scene understanding** benchmark introduced in our AAAI 2026 paper:
+This repository hosts the official implementation of **EgoDynamic4D**, a large-scale egocentric **4D dynamic scene understanding** benchmark introduced in our AAAI 2026 paper:
 
 > **Understanding Dynamic Scenes in Egocentric 4D Point Clouds**
 
@@ -18,17 +18,13 @@ The dataset includes:
 * Camera poses
 * Globally unique instance masks
 * 4D bounding boxes over time
-* Large-scale QA annotations for dynamic reasoning tasks
+* Large-scale **QA annotations for dynamic reasoning** tasks
 
-The dataset is constructed based on existing egocentric 4D resources, building upon **ADT and THUD++**. Our main contribution lies in the **large-scale, task-driven QA annotations**, which enable fine-grained spatio-temporal reasoning in dynamic egocentric scenes.
+The dataset is constructed based on existing egocentric 4D resources, building upon [ADT](https://arxiv.org/abs/2306.06362) and [THUD++](https://arxiv.org/abs/2412.08096). Our main contribution lies in the **large-scale, task-driven QA annotations**, which enable fine-grained spatio-temporal reasoning in dynamic egocentric scenes.
 
 ---
 
 ## Open-Source Status
-
-The **EgoDynamic4D dataset is currently being prepared for public release**.
-
-This repository will be updated very soon with:
 
 * Dataset files [Huggingface](https://huggingface.co/datasets/Dancing-Huggingface/EgoDynamic4D)
 * Annotation format and task definitions
