@@ -30,4 +30,4 @@ The dataset is constructed based on existing egocentric 4D resources, building u
 * Annotation format and task definitions
 * Download and usage instructions
 
-Please stay tuned.
+Please checkout the branch 'src' for our implementation based on LLaVA-3D.
